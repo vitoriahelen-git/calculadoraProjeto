@@ -15,7 +15,8 @@ namespace ETEC_PC1
 
             while(contator > 0) {
 
-                Console.WriteLine("Menu de opções\n");
+                Console.WriteLine("\nMenu de opções\n");
+                Console.WriteLine("--------------\n");
                 Console.WriteLine("Escolha a operação que deseja executar:");
                 Console.WriteLine("1. Soma");
                 Console.WriteLine("2. Subtração");
@@ -117,6 +118,7 @@ namespace ETEC_PC1
                 case "X":
                     Console.WriteLine($"\nOPÇÃO SELECIONADA: Sair \n");
                     contator = 0;
+                    Console.WriteLine("--Agradeço por ter feito uso do meu programa!\n");
                     break;
                 case "S":
                     Console.WriteLine($"\nOPÇÃO SELECIONADA: Sobre\n"); 
@@ -132,9 +134,9 @@ namespace ETEC_PC1
                 default:
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Opção inválida!");
-                    Console.ReadKey();  
-                    Console.ResetColor(); 
-
+                    Console.ResetColor();
+                    Console.WriteLine("Pressione uma tecla qualquer para voltar ao Menu.");
+                    Console.ReadKey();   
                     break;
                 }
             }
