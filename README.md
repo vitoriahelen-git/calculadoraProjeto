@@ -102,7 +102,7 @@ Opção inválida!
 
 A primeira coisa a se fazer é fazer o download do .zip
 
-Você pode fazer isso clicando [aqui](dist/Release).
+Você pode fazer isso clicando [aqui](dist/Release.zip).
 
 ### Windows
 
