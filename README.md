@@ -126,7 +126,7 @@ dotnet calculadoraProjeto.dll
 
 ## Agradecimentos
 
-- [ETEC Adolpho Berezin](http://www.etecab.com.br)
+- [ETEC Adolpho Berezin](http://www.eteab.com.br)
 - [Prof. Ermogenes Palacio](https://github.com/ermogenes)
 - [Prof. Diego Neri](https://github.com/diegoneri)
 - [DEV C#](https://github.com/ermogenes/aulas-programacao-csharp)
