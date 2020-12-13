@@ -97,4 +97,41 @@ Opção inválida!
 ```
 É necessário que o usuário digite algo válido, no caso valores numéricos (1-6) ou as letras "S" ou "X", caso o contrário o programa não será executado. Quando isso acontecer você poderá pressionar qualquer tecla para voltar ao Menu e escolher uma opção válida. 
 
-O programa funciona dessa forma, espero que faça bom proveito e já agradeço de agora por ter utilizado e avaliado o meu programa. Obrigado!
+
+## Como usar o Sistema
+
+A primeira coisa a se fazer é fazer o download do .zip
+
+Você pode fazer isso clicando [aqui](dist/Release).
+
+### Windows
+
+
+Caso você seje um usuário Windows, apenas descompact o .zip e dentro da pasta,
+procura o `calculadoraProjeto.exe` e dê duplo click nesse arquivo para executar.
+
+### Outro SOs
+
+
+Após o download do arquivo .zip e sua descompactação em um pasta de sua escolha,
+abra o terminal e navegue até a pasta onde você descompactou o .zip.
+
+Para faze isso pelo terminal use o comando 'cd' para navegarmos entre pastas.
+
+No terminal `execute` esse comando abaixo 👇
+
+```
+dotnet calculadoraProjeto.dll
+```
+
+## Agradecimentos
+
+- [ETEC Adolpho Berezin](http://www.etecab.com.br)
+- [Prof. Ermogenes Palacio](https://github.com/ermogenes)
+- [Prof. Diego Neri](https://github.com/diegoneri)
+- [DEV C#](https://github.com/ermogenes/aulas-programacao-csharp)
+
+
+O programa funciona dessa forma, espero que faça bom proveito e já agradeço de agora por ter
+
+utilizado e avaliado o meu programa. Obrigado!
