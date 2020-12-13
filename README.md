@@ -1,4 +1,4 @@
-# CalculadoraProjeto
+# Calculadora Projeto
 Foi criado um software que atenda a especificação abaixo. 
 - As quatro operações aritméticas básicas (soma, subtração, multiplicação e divisão);
 - Exponenciação e radiciação;
